@@ -133,6 +133,8 @@ class ProductDisplayScreen extends StatelessWidget {
     {"image": "assets/images/phone.jpg", "title": "Product 2", "desc": "This is Product 2"},
     {"image": "assets/images/mobile.png", "title": "Product 3", "desc": "This is Product 3"},
     {"image": "assets/images/watch.png", "title": "Product 4", "desc": "This is Product 4"},
+    {"image": "assets/images/watch.png", "title": "Product 4", "desc": "This is Product 5"},
+    {"image": "assets/images/watch.png", "title": "Product 4", "desc": "This is Product 6"},
   ];
 
   @override
